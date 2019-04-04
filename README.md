@@ -1,14 +1,14 @@
-### wp-plugin-boilerplate
+# wp-plugin-boilerplate
 
 A WordPress plugin boilerplate including webpack, babel and sass
 
 ## installation
 
-# clone the repo to your plugins directory
+### clone the repo to your plugins directory
 
 `git clone https://github.com/jbaldrich/wp-plugin-boilerplate.git`
 
-# Use your own plugin-name
+### Use your own plugin-name
 
 Replace:
 
@@ -20,7 +20,7 @@ Replace:
 - plugin name >> your plugin name
 - Plugin Name >> Your Plugin Name
 
-# install dependencies
+### install dependencies
 
 `npm install`
 
